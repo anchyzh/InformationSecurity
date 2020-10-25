@@ -40,7 +40,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(182, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Автор: Дмитрук О. ІС-71, варіант 5";
+            this.label1.Text = "Автор: Чиж А. ІС-71, варіант 21";
             // 
             // label2
             // 
@@ -49,7 +49,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(164, 39);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Адміністратор:\r\nІм\'я користувача: olesiaDmytruk\r\nПароль: Olesia,24";
+            this.label2.Text = "Адміністратор:\r\nІм\'я користувача: annaChyz\r\nПароль: Anna.24";
             // 
             // label3
             // 

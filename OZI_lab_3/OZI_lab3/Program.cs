@@ -20,9 +20,9 @@ namespace OZI_lab1
                 UserContext db = new UserContext();
                 UserCopyContext dbc = new UserCopyContext();
 
-                if (db.Users.Find("olesiaDmytruk") == null)
+                if (db.Users.Find("annaChyzh") == null)
                 {
-                    db.Users.Add(new User { Name = "olesiaDmytruk", Role = "admin", Password = "Olesia,24", PasswordLength = 9, Blocked = false, Restriction = true });
+                    db.Users.Add(new User { Name = "annaChyzh", Role = "admin", Password = "Anna.24", PasswordLength = 9, Blocked = false, Restriction = true });
                 }
 
                 db.SaveChanges();
